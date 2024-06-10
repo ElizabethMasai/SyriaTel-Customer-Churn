@@ -84,10 +84,10 @@ XGBoost is the best algorithm to use due to its highest recall and F1-Score, mak
 
 
 ![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/4e2d13b5-3962-48fd-8e9e-8d61fa0d7523)
-![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/4e2d13b5-3962-48fd-8e9e-8d61fa0d7523)
+
 
 ![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/3fc7b58c-9a86-4c11-beca-719f63d605c8)
-![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/3fc7b58c-9a86-4c11-beca-719f63d605c8)
+
 
 
 Looking at the Feature importance visual above, the following recommendations will arise:
