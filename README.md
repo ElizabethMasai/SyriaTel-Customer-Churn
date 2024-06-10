@@ -76,6 +76,27 @@ Algorithms such as Logistic Regression, Random Forest, and Decision Trees combin
 ROC and AUC are used to assess the models.Recall sores measures the proportion of actual positive instances that were correctly identified by the model. A higher recall score indicates that the model has a strong ability to identify positive instances correctly.
 
 ##  Conclusions and Recommendations 
+XGBoost is the best algorithm to use due to its highest recall and F1-Score, making it effective at identifying churn while minimizing false positives. If computational resources are limited or model interpretability is important, Random Forest is also a reliable choice.
+
+
+## Recommendations
+
+
+
+![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/4e2d13b5-3962-48fd-8e9e-8d61fa0d7523)
+![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/4e2d13b5-3962-48fd-8e9e-8d61fa0d7523)
+
+![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/3fc7b58c-9a86-4c11-beca-719f63d605c8)
+![download](https://github.com/ElizabethMasai/SyriaTel-Customer-Churn-Project/assets/150329461/3fc7b58c-9a86-4c11-beca-719f63d605c8)
+
+
+Looking at the Feature importance visual above, the following recommendations will arise:
+
+Since customer service calls have the highest importance, it's necessary to focus on improving customer service,this can be done by implementing better training for customer service representatives, reducing wait times, and resolving issues more efficiently will eventually reduce churn.
+
+Total Day Minutes and Total Day Charge -Customers with higher usage might be more prone to churn if they feel they are not getting value for money. Syriatel should therefore consider offering better day-time packages or discounts to heavy users to make them feel valued and reduce their churn rates.
+
+International Plan- The presence of an international plan is a strong predictor of churn. Evaluate the current international plan's competitiveness in terms of price and features. Introduce more attractive international calling plans or special offers to make these plans more appealing to the customers who might be on the verge of terminating their contracts.
 
  
 
