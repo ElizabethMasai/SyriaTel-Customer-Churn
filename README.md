@@ -98,6 +98,11 @@ Total Day Minutes and Total Day Charge -Customers with higher usage might be mor
 
 International Plan- The presence of an international plan is a strong predictor of churn. Evaluate the current international plan's competitiveness in terms of price and features. Introduce more attractive international calling plans or special offers to make these plans more appealing to the customers who might be on the verge of terminating their contracts.
 
+
+## Conclussion
+## XGBoost is the best algorithm to use due to its highest recall and F1-Score, making it effective at identifying churn while minimizing false positives. If computational resources are limited or model interpretability is important.Random Forest is overally a reliable choice because of its fully-superior ability to predict customer churns and also its not so much limited computational resources.
+
+
  
 
 
